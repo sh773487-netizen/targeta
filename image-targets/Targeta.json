@@ -1,13 +1,13 @@
 {
   "type": "PLANAR",
   "properties": {
-    "top": 200,
-    "left": 0,
-    "width": 899,
-    "height": 1198,
+    "top": 103,
+    "left": 77,
+    "width": 1046,
+    "height": 1394,
     "isRotated": false,
-    "originalWidth": 899,
-    "originalHeight": 1599
+    "originalWidth": 1200,
+    "originalHeight": 1600
   },
   "imagePath": "image-targets/Targeta_luminance.jpg",
   "metadata": null,
@@ -18,6 +18,6 @@
     "thumbnailImage": "Targeta_thumbnail.jpg",
     "luminanceImage": "Targeta_luminance.jpg"
   },
-  "created": 1786492307787,
-  "updated": 1786492307787
+  "created": 1787110068760,
+  "updated": 1787110085662
 }
